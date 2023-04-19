@@ -4,8 +4,8 @@
 
 ## 📫 How to reach me
 <p align="left">
-<a href="https://twitter.com/Musheer_AKhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="treciaks" height="30" width="40" /></a>
-<a href="https://in.linkedin.com/in/musheer-ahmad-khan-579953113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="treciaks" height="30" width="40" /></a>
+<a href="https://twitter.com/Musheer_AKhan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="treciaks" height="30" width="40" /></a>
+<a href="https://in.linkedin.com/in/musheer-ahmad-khan-579953113" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="treciaks" height="30" width="40" /></a>
 </p>
 
 <!--
