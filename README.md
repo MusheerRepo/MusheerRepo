@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 🔭 I’m currently working on
-
+TYPESCRIPT + PLAYWRIGHT
 ## 📫 How to reach me
 <p align="left">
 <a href="https://twitter.com/Musheer_AKhan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="treciaks" height="30" width="40" /></a>
